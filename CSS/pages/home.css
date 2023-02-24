@@ -1,0 +1,24 @@
+/* base */
+@import '../base/base.css';
+@import '../base/layout.css';
+/* 3rd-party */
+
+/* components */
+
+
+/* CUSTOM STYLE BELOW THIS COMMENT LINE */
+
+.header-content{
+    display: inline-block;
+    justify-content: space-between;
+}
+
+.left {
+    display: block;
+
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+}
