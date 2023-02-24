@@ -2,23 +2,21 @@
 @import '../base/base.css';
 @import '../base/layout.css';
 /* 3rd-party */
+@import '../3rd-party/font-awesome.min.css';
 
 /* components */
+@import '../components/header.css';
+@import '../components/hero.css';
+@import '../components/partners.css';
+@import '../components/footer.css';
+@import '../components/button.css'
 
 
 /* CUSTOM STYLE BELOW THIS COMMENT LINE */
 
-.header-content{
-    display: inline-block;
-    justify-content: space-between;
-}
 
-.left {
-    display: block;
 
-}
 
-.image {
-    max-width: 100%;
-    height: auto;
-}
+
+
+

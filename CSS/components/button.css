@@ -1,0 +1,22 @@
+.btn {
+    width: 170px;
+    height: 48px;
+    background: #212529;
+    padding: 15px 33px;
+    border: 1px solid transparent;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    user-select: none;
+    text-align: center;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+.btn-white {
+    background: #fff;
+    color: #212529;
+}

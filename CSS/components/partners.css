@@ -1,0 +1,13 @@
+.partners {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 68px;
+}
+.btn {
+    display: block;
+    justify-content: center;
+    align-items: center;
+}

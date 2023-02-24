@@ -1,0 +1,19 @@
+.hero {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 120px;
+}
+.hero  h5,
+.hero  h1,
+.hero  p {
+    color: #FFFFFF;
+}
+
+
+
+.image {
+    max-width: 100%;
+    height: auto;
+}
