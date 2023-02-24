@@ -10,9 +10,10 @@
 .hero  p {
     color: #FFFFFF;
 }
-
-
-
+.left {
+    max-width: 100%;
+    height: auto;
+}
 .image {
     max-width: 100%;
     height: auto;

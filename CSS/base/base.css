@@ -30,6 +30,9 @@ body {
     font-family: 'Work Sans', sans-serif;
     font-size: clamp(24px, 6vw, 44px);
 }
+h5 {
+    letter-spacing: 5px;
+}
 
 p {
     margin-bottom: 1em;
